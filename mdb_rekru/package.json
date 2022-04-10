@@ -1,0 +1,11 @@
+{
+  "name": "mdb_rekru",
+  "version": "1.0.0",
+  "description": "Serwer do zadania rekrutacyjnego dla MDBootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

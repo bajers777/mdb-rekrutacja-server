@@ -1,0 +1,11 @@
+{
+  "projectName": "mdb_rekru",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node14"
+  },
+  "hash": "ffb9206a",
+  "packageManager": "npm"
+}

@@ -1,0 +1,10 @@
+{
+  "projectName": "mdb_rekrutacja",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node12"
+  },
+  "hash": "794a9203"
+}
