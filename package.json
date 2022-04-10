@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "web": "index.js"
+    "start": "index.js"
   },
   "author": "Łukasz Bajerowski",
   "license": "ISC",
