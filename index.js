@@ -5,11 +5,13 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+const port = process.env.PORT || 8888;
+
 const components = [];
 const category = ['Podzespoły', 'Urządzenia peryferyjne', 'Oprogramowanie', 'Inne'];
 
-app.listen(3000, () => {
-    console.log('serwer działa');
+app.listen(port, () => {
+    console.log(`Server is working on ${port} port`);
 });
 
 //components methods handle
